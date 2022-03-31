@@ -47,7 +47,7 @@ class Calculator {
         break;
 
       default:
-        System.out.println("Invalid operator!");
+      System.out.println("Kaam Chhaina Baabu ko Jaile Java Java bhano");
         break;
     }
 
