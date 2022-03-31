@@ -47,7 +47,7 @@ class Calculator {
         break;
 
       default:
-      System.out.println("Kaam Chhaina Baabu ko Jaile Java Java bhano");
+      System.out.println("");
         break;
     }
 
